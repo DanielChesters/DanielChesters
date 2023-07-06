@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My projects were moved to [Codeberg.org](https://codeberg.org/daniel_chesters).
+
 <!--
 **DanielChesters/DanielChesters** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
